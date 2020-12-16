@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.scoreBoard {
+  display: flex;
+}
+
+.blackScore {
+  flex: 1 1 30%;
+  text-align: center;
+}
+
+.redScore {
+  flex: 1 1 30%;
+  text-align: center;
+}
+
+.blueScore {
+  flex: 1 1 30%;
+  text-align: center;
+}
