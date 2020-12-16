@@ -2,12 +2,12 @@
   "name": "circleClick",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
-   "start":"node server.js"
+   "start":"node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Steve",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
